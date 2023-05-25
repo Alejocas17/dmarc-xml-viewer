@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --open",
-    "start": "vite --mode production --port 80"
+    "start": "vite --mode production --force"
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
